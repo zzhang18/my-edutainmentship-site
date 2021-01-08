@@ -1,1 +1,1 @@
-Sitemap: /my-edutainmentship/sitemap.xml
+Sitemap: /my-edutainmentship-site/sitemap.xml
