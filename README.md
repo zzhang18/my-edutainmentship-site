@@ -1,4 +1,4 @@
-# my-edutainmentship
-Neo setup for jekyll blogging source
+# my-edutainmentship-site
+Neo setup for jekyll blogging site
 
-For full features. go to https://zzhang18.github.io/my-edutainmentship-site/
+Stable release site: https://zzhang18.github.io/my-edutainmentship-site/
