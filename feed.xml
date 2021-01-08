@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/my-edutainmentship/feed.xml" rel="self" type="application/atom+xml" /><link href="/my-edutainmentship/" rel="alternate" type="text/html" /><updated>2021-01-08T13:24:01+08:00</updated><id>/my-edutainmentship/feed.xml</id><title type="html">My EdutainmentShip</title><subtitle>This is the website for displaying blog for various repos and notes.</subtitle><entry><title type="html">Disqus Guide</title><link href="/my-edutainmentship/learning/2021/01/06/disqus-guide.html" rel="alternate" type="text/html" title="Disqus Guide" /><published>2021-01-06T00:00:00+08:00</published><updated>2021-01-06T00:00:00+08:00</updated><id>/my-edutainmentship/learning/2021/01/06/disqus-guide</id><content type="html" xml:base="/my-edutainmentship/learning/2021/01/06/disqus-guide.html">&lt;h1 id=&quot;disqus&quot;&gt;Disqus&lt;/h1&gt;
+&lt;p&gt;Disqus is a networked community platform used by hundreds of thousands of sites all over the web.&lt;/p&gt;
+
+&lt;h1 id=&quot;setup&quot;&gt;Setup&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Register an account at &lt;a href=&quot;https://disqus.com/&quot;&gt;Disqus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Create a site&lt;/li&gt;
+  &lt;li&gt;Install and config &lt;a href=&quot;https://help.disqus.com/en/articles/1717084-javascript-configuration-variables&quot;&gt;variables&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Add your repo to the trusted domain as username.github.io&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="learning" /><summary type="html">Disqus Disqus is a networked community platform used by hundreds of thousands of sites all over the web.</summary></entry><entry><title type="html">Update Navigation</title><link href="/my-edutainmentship/changelog/2021/01/06/update-navigation.html" rel="alternate" type="text/html" title="Update Navigation" /><published>2021-01-06T00:00:00+08:00</published><updated>2021-01-06T00:00:00+08:00</updated><id>/my-edutainmentship/changelog/2021/01/06/update-navigation</id><content type="html" xml:base="/my-edutainmentship/changelog/2021/01/06/update-navigation.html">&lt;ul&gt;
+  &lt;li&gt;Categorized posts&lt;/li&gt;
+  &lt;li&gt;Updated navigation&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="changelog" /><summary type="html">Categorized posts Updated navigation</summary></entry><entry><title type="html">Test Comment Blog Duo</title><link href="/my-edutainmentship/learning/2021/01/06/test-comment-blog-duo.html" rel="alternate" type="text/html" title="Test Comment Blog Duo" /><published>2021-01-06T00:00:00+08:00</published><updated>2021-01-06T00:00:00+08:00</updated><id>/my-edutainmentship/learning/2021/01/06/test-comment-blog-duo</id><content type="html" xml:base="/my-edutainmentship/learning/2021/01/06/test-comment-blog-duo.html"></content><author><name></name></author><category term="learning" /><summary type="html"></summary></entry><entry><title type="html">Test Comment Blog Trio</title><link href="/my-edutainmentship/learning/2021/01/06/test-comment-blog-trio.html" rel="alternate" type="text/html" title="Test Comment Blog Trio" /><published>2021-01-06T00:00:00+08:00</published><updated>2021-01-06T00:00:00+08:00</updated><id>/my-edutainmentship/learning/2021/01/06/test-comment-blog-trio</id><content type="html" xml:base="/my-edutainmentship/learning/2021/01/06/test-comment-blog-trio.html"></content><author><name></name></author><category term="learning" /><summary type="html"></summary></entry><entry><title type="html">Test Comment Blog Neo</title><link href="/my-edutainmentship/learning/2021/01/06/test-comment-blog-neo.html" rel="alternate" type="text/html" title="Test Comment Blog Neo" /><published>2021-01-06T00:00:00+08:00</published><updated>2021-01-06T00:00:00+08:00</updated><id>/my-edutainmentship/learning/2021/01/06/test-comment-blog-neo</id><content type="html" xml:base="/my-edutainmentship/learning/2021/01/06/test-comment-blog-neo.html"></content><author><name></name></author><category term="learning" /><summary type="html"></summary></entry><entry><title type="html">Update Theme</title><link href="/my-edutainmentship/changelog/2021/01/04/update-theme.html" rel="alternate" type="text/html" title="Update Theme" /><published>2021-01-04T00:00:00+08:00</published><updated>2021-01-04T00:00:00+08:00</updated><id>/my-edutainmentship/changelog/2021/01/04/update-theme</id><content type="html" xml:base="/my-edutainmentship/changelog/2021/01/04/update-theme.html">&lt;ul&gt;
+  &lt;li&gt;Updated theme&lt;/li&gt;
+  &lt;li&gt;Added changelog page&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="changelog" /><summary type="html">Updated theme Added changelog page</summary></entry><entry><title type="html">初见Luckysheet</title><link href="/my-edutainmentship/learning/2020/12/24/%E5%88%9D%E8%A7%81lucky-sheet.html" rel="alternate" type="text/html" title="初见Luckysheet" /><published>2020-12-24T21:20:00+08:00</published><updated>2020-01-04T21:20:00+08:00</updated><id>/my-edutainmentship/learning/2020/12/24/%E5%88%9D%E8%A7%81lucky-sheet</id><content type="html" xml:base="/my-edutainmentship/learning/2020/12/24/%E5%88%9D%E8%A7%81lucky-sheet.html">&lt;h1 id=&quot;简介&quot;&gt;简介&lt;/h1&gt;
+
+&lt;p&gt;🚀Luckysheet ，一款纯前端类似excel的在线表格，功能强大、配置简单、完全开源。&lt;/p&gt;
+
+&lt;h1 id=&quot;demo测试网页&quot;&gt;Demo测试网页&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://zzhang18.github.io/sgb/LuckySheetTrial&quot;&gt;LuckysheetTrial with import and export&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;luckysheet-适配excel&quot;&gt;Luckysheet 适配Excel&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;单元格大小适配（像素）
+    &lt;ul&gt;
+      &lt;li&gt;Luckysheet 默认
+        &lt;ul&gt;
+          &lt;li&gt;“defaultRowHeight”: 19, //自定义行高&lt;/li&gt;
+          &lt;li&gt;“defaultColWidth”: 73, //自定义列宽&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Excel 默认
+        &lt;ul&gt;
+          &lt;li&gt;“height”: 20, //自定义行高 15&lt;/li&gt;
+          &lt;li&gt;“width”: 64, //自定义列宽 8.43&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;exceljs 默认
+        &lt;ul&gt;
+          &lt;li&gt;defaultRowHeight	15	Default row height&lt;/li&gt;
+          &lt;li&gt;defaultColWidth	(optional)	Default column width&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;适配思路
+    &lt;ul&gt;
+      &lt;li&gt;新建sheet时将表格自定义大小为Excel默认长宽&lt;/li&gt;
+      &lt;li&gt;导入按照文件长宽&lt;/li&gt;
+      &lt;li&gt;导出按照目前表内定义长宽&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;参考资料&quot;&gt;参考资料&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mengshukeji/Luckysheet&quot;&gt;Luckysheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/oy-paddy/luckysheet-vue-importAndExport&quot;&gt;luckysheet-vue-importAndExport&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="learning" /><category term="utilities" /><category term="office" /><summary type="html">简介</summary></entry><entry><title type="html">多语言数据库设计模式</title><link href="/my-edutainmentship/jekyll/2020/12/21/i18n-database-design.html" rel="alternate" type="text/html" title="多语言数据库设计模式" /><published>2020-12-21T11:20:32+08:00</published><updated>2020-12-21T11:20:32+08:00</updated><id>/my-edutainmentship/jekyll/2020/12/21/i18n-database-design</id><content type="html" xml:base="/my-edutainmentship/jekyll/2020/12/21/i18n-database-design.html">&lt;h1 id=&quot;定义&quot;&gt;定义&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;国际化 Internationalization(I18N)：使软件拥有多种语言界面，并未产生实质性变化&lt;/li&gt;
+  &lt;li&gt;Localization(L10N)： 将软件适应当地的语言并融入本地元素，会对内容有所修改。本地化不仅仅是翻译内容，还有变更单位制式等。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;数据库设计&quot;&gt;数据库设计&lt;/h1&gt;
+&lt;h2 id=&quot;1分栏式&quot;&gt;1.分栏式&lt;/h2&gt;
+&lt;h3 id=&quot;描述&quot;&gt;描述&lt;/h3&gt;
+&lt;p&gt;在同一数据栏中加入不同语言的翻译，例如：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Store
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;location_en: Shanghai&lt;/li&gt;
+        &lt;li&gt;location_zh: 上海&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Product
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;brand_en: Dyson&lt;/li&gt;
+        &lt;li&gt;brand zh: 戴森
+          &lt;h3 id=&quot;优点&quot;&gt;优点&lt;/h3&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;易实现&lt;/li&gt;
+  &lt;li&gt;调取不复杂
+    &lt;h3 id=&quot;缺点&quot;&gt;缺点&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;扩展灵活性差&lt;/li&gt;
+  &lt;li&gt;调取函数随语言数量增加
+    &lt;h3 id=&quot;应用场景&quot;&gt;应用场景&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;小型项目&lt;/li&gt;
+  &lt;li&gt;稳定的语言库
+    &lt;h2 id=&quot;独立语言翻译表&quot;&gt;独立语言翻译表&lt;/h2&gt;
+    &lt;h3 id=&quot;描述-1&quot;&gt;描述&lt;/h3&gt;
+    &lt;p&gt;将每项要翻译的内容专门存到对应的表中，里面每一栏对应相应的语言&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Store
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;location&lt;/li&gt;
+        &lt;li&gt;location_translation_id&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Product
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;brand&lt;/li&gt;
+        &lt;li&gt;brand_translation_id&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Translation_Store
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;en&lt;/li&gt;
+        &lt;li&gt;zh&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;优点-1&quot;&gt;优点&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;可应用于已存在数据的模型中&lt;/li&gt;
+  &lt;li&gt;每次新加语言只需添加一栏数据
+    &lt;h3 id=&quot;缺点-1&quot;&gt;缺点&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;需要调整数据模型&lt;/li&gt;
+  &lt;li&gt;可能会产生NLL栏&lt;/li&gt;
+  &lt;li&gt;查询复杂度增加
+    &lt;h3 id=&quot;应用场景-1&quot;&gt;应用场景&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;已有数据的模型加语言库
+    &lt;h2 id=&quot;独立语言栏翻译表式&quot;&gt;独立语言栏翻译表式&lt;/h2&gt;
+    &lt;h3 id=&quot;描述-2&quot;&gt;描述&lt;/h3&gt;
+    &lt;p&gt;类似于独立语言翻译表，这种是将相同语言的内容存到独立的表下&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Store
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;location&lt;/li&gt;
+        &lt;li&gt;location_translation_id&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Product
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;brand&lt;/li&gt;
+        &lt;li&gt;brand_translation_id&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Translation_Store
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;en&lt;/li&gt;
+        &lt;li&gt;zh&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Translation_Product
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;en&lt;/li&gt;
+        &lt;li&gt;zh&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;优点-2&quot;&gt;优点&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;易于调取&lt;/li&gt;
+  &lt;li&gt;模型好调整&lt;/li&gt;
+  &lt;li&gt;查询复杂度稍微减轻&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;缺点-2&quot;&gt;缺点&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;相对高的存储节点&lt;/li&gt;
+  &lt;li&gt;存储大量翻译表&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;应用场景-2&quot;&gt;应用场景&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;需要独立管理语言表数据库的项目&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;独立翻译表层区域和非翻译区域&quot;&gt;独立翻译表层区域和非翻译区域&lt;/h2&gt;
+&lt;h3 id=&quot;描述-3&quot;&gt;描述&lt;/h3&gt;
+&lt;p&gt;通过是否需要翻译将数据模型内容分别处理&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Store
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;number&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Store_Translation
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;location_translation_id&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Product
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;total&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Product_Translation
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;brand_translation_id&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Translation
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;id&lt;/li&gt;
+        &lt;li&gt;en&lt;/li&gt;
+        &lt;li&gt;zh&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;优点-3&quot;&gt;优点&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;简单调用不需要翻译的字段&lt;/li&gt;
+  &lt;li&gt;容易调取译文&lt;/li&gt;
+  &lt;li&gt;语言库容易整合
+    &lt;h3 id=&quot;缺点-3&quot;&gt;缺点&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;表单数据结构复杂&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;应用场景-3&quot;&gt;应用场景&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;大型复杂的语言数据库项目&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;参考资料&quot;&gt;参考资料&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/walkin/database-internationalization-i18n-localization-l10n-design-patterns-94ff372375c6&quot;&gt;Database Internationalization(I18N)/Localization(L10N) design patterns&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="i18n" /><category term="idea" /><summary type="html">定义 国际化 Internationalization(I18N)：使软件拥有多种语言界面，并未产生实质性变化 Localization(L10N)： 将软件适应当地的语言并融入本地元素，会对内容有所修改。本地化不仅仅是翻译内容，还有变更单位制式等。</summary></entry><entry><title type="html">运用Jekyll自动生成博客</title><link href="/my-edutainmentship/jekyll/2020/12/18/intro-to-jekyll.html" rel="alternate" type="text/html" title="运用Jekyll自动生成博客" /><published>2020-12-18T17:00:32+08:00</published><updated>2020-12-18T17:00:32+08:00</updated><id>/my-edutainmentship/jekyll/2020/12/18/intro-to-jekyll</id><content type="html" xml:base="/my-edutainmentship/jekyll/2020/12/18/intro-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;jekeyll-website-setup&quot;&gt;Jekeyll Website setup:&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Follow &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; to create blog website&lt;/li&gt;
+  &lt;li&gt;Follow the &lt;a href=&quot;https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll&quot;&gt;Github Page Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Upated url and baseUrl in _config.yml&lt;/li&gt;
+  &lt;li&gt;Publish&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;span class=&quot;n&quot;&gt;Jekyll&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;yourProject&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;cd&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;yourProject&lt;/span&gt;  
+&lt;span class=&quot;n&quot;&gt;bundle&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;exec&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Jekyll&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;serve&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yml&quot; data-lang=&quot;yml&quot;&gt;&lt;span class=&quot;na&quot;&gt;baseurl&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;/ME&quot;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# the subpath of your site, e.g. /blog&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;http://zzhang18.github.io&quot;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# the base hostname &amp;amp; protocol for your site, e.g. http://example.com&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;reference&quot;&gt;Reference:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;jekyll-docs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;jekyll-gh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll&quot;&gt;GitHub Pages site with Jekyll&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&quot;&gt;Jekyll - Static Site Generator - Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="jekyll" /><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Init</title><link href="/my-edutainmentship/changelog/2020/12/18/init.html" rel="alternate" type="text/html" title="Init" /><published>2020-12-18T00:00:00+08:00</published><updated>2020-12-18T00:00:00+08:00</updated><id>/my-edutainmentship/changelog/2020/12/18/init</id><content type="html" xml:base="/my-edutainmentship/changelog/2020/12/18/init.html">&lt;ul&gt;
+  &lt;li&gt;Init release&lt;/li&gt;
+  &lt;li&gt;Added Jekyll tutorial&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="changelog" /><summary type="html">Init release Added Jekyll tutorial</summary></entry></feed>
